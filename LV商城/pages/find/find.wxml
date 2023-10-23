@@ -1,0 +1,36 @@
+<!--pages/find/find.wxml-->
+<view class="title">路易威登</view>
+<view class="sinput">
+<SearchInput  inputxt="{{inputxt}}">
+  afd
+</SearchInput>
+</view>
+<view class="ml">目录</view>
+<view class="con">
+  <view class="two-col-l"><image src="https://www.louisvuitton.cn/images/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB--W_Fa_RW_Show_FW21_Push2_DII.jpg?wid=1080"></image> </view>
+ 
+  <view class="two-col-l"><image src="https://www.louisvuitton.cn/images/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB--W_Fa_RW_Show_FW21_Push2_DII.jpg?wid=1080"></image> </view>
+ 
+  <view class="two-col-l"><image src="https://www.louisvuitton.cn/images/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB--W_Fa_RW_Show_FW21_Push2_DII.jpg?wid=1080"></image> </view>
+  <view class="two-col-l"><image src="https://www.louisvuitton.cn/images/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB--W_Fa_RW_Show_FW21_Push2_DII.jpg?wid=1080"></image> </view>
+ 
+ <view class="two-col-l"><image src="https://www.louisvuitton.cn/images/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB--W_Fa_RW_Show_FW21_Push2_DII.jpg?wid=1080"></image> </view>
+
+ <view class="two-col-l"><image src="https://www.louisvuitton.cn/images/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB--W_Fa_RW_Show_FW21_Push2_DII.jpg?wid=1080"></image> </view>
+  
+</view>
+
+<!-- <navigator url="/pages/index/index" >可以返回</navigator>
+<navigator open-type="redirect" url="/pages/index/index"  >不能返回</navigator>
+<navigator open-type="switchTab" url="/pages/home/home">轮播图  关闭非tabBar 页面</navigator>
+<navigator open-type="reLaunch" url="/pages/home/home">关闭所有页面，随便跳</navigator>
+<Tabs tabs="{{tabs}}" binditemChange="hanleItemChange">
+  <block wx:if="{{tabs[0].isActive}}">0</block>
+<block wx:elif="{{tabs[1].isActive}}">1</block>
+<block wx:elif="{{tabs[2].isActive}}">2</block>
+<block wx:else>3</block>
+</Tabs> -->
+
+
+
+

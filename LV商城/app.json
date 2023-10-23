@@ -1,0 +1,65 @@
+{
+ 
+  "pages":[
+  "pages/home/home",
+"pages/me/me",
+    "pages/login/login",
+
+    "pages/logs/logs",
+     
+    "pages/shopping/shopping",
+       "pages/details/details",
+   
+     "pages/search/search",
+    "pages/shopmore/shopmore",
+ 
+   "pages/index/index",
+  
+    "pages/find/find" 
+   
+   
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "我的应用",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":true,
+    "backgroundColor": "#000",
+    "navigationStyle": "custom"
+   
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath":  "pages/home/home",
+        "text": "首页",
+        "iconPath": "image/_home.png",
+        "selectedIconPath": "image/home.png"
+      },
+      {
+      "pagePath": "pages/find/find",
+      "text": "发现",
+      "iconPath": "image/_find.png",
+      "selectedIconPath": "image/find.png"
+    },
+    {
+      "pagePath": "pages/shopping/shopping",
+      "text": "购物袋",
+      "iconPath": "image/_shopping.png",
+      "selectedIconPath": "image/shopping.png"
+    },
+    {
+      "pagePath": "pages/me/me",
+      "text": "我的",
+      "iconPath": "image/_me.png",
+      "selectedIconPath": "image/me.png"
+    }
+    
+  ],
+  "color": "#0094ff"
+  },
+   "style": "v2",
+   "sitemapLocation": "sitemap.json"
+  
+}

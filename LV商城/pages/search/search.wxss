@@ -1,0 +1,13 @@
+/* pages/search/search.wxss */
+.title{
+   font-size: 40rpx;
+   font-weight: bold;
+   width:100% ;
+   height: 100rpx;
+   margin: 8% 40% auto;
+}
+.rm{
+  font-size: 35rpx;
+  font-weight: bold;
+  margin: 7% 7%;
+}

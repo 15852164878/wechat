@@ -1,0 +1,9 @@
+<!--pages/search/search.wxml-->
+<view class="title"> <text>路易威登</text> </view>
+<SearchInput></SearchInput>
+<view class="rm">
+热门推荐
+<view>
+
+</view>
+</view>

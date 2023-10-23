@@ -1,0 +1,100 @@
+/* pages/home/home.wxss */
+.bg {
+  /* margin: 0;
+  padding: 0; */
+width: 750rpx;
+height: 1500rpx;
+}
+.Carousel-one {
+  width: 800rpx;
+  height: 1400rpx;
+
+}
+.bg image {
+  width: 800rpx;
+  height: 100%;
+  /* display: fix;
+  justify-content: space-between; */
+  /* position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1; */
+}
+/* .one-title {
+  margin-top: 110%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50rpx;
+  font-weight: 900;
+}
+.two-title {
+  margin-top: 3%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35rpx;
+}
+button {
+  margin-top: 4%;
+} */
+/* /////// */
+.title{
+  height: 20%;
+  width: 750rpx;
+  font-weight: 900;
+  font-size: 50rpx;
+  padding-top: 60rpx;
+  padding-left: 12%;
+}
+.bag-one{
+  height: 65%;
+  padding: 60rpx 0;
+  /* white-space: nowrap; */
+} 
+.bag-box{
+  display: flex;
+  flex-wrap: nowrap; 
+  height: 100%;
+} 
+.img{
+  width: 240rpx;
+  height: 70%;
+}
+.bag-one  image{
+  width:240rpx;
+  height:240rpx
+}
+.bag-one .txt text{
+  width: 100%;
+  height: 30%;
+  display: block;
+  font-size:30rpx; 
+  white-space: nowrap;
+}
+ .box{
+ padding: 0 40rpx;
+  text-align: center;
+  display: inline;
+ 
+}
+.showmore{
+  height: 20%;
+  font-size: 32rpx;
+  border-radius: 0;
+  font-weight: 600;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.buttom{
+  width: 100%;
+  height: 42vh;
+  display: flex;
+  align-items: flex-end;
+}
+.video_1{
+width: 100%;
+height: 80%;
+}
+

@@ -1,0 +1,2 @@
+<!--pages/shopping/shopping.wxml-->
+<view class="gwd"> <text>购物袋</text> </view>

@@ -1,0 +1,39 @@
+<!--pages/details/details.wxml-->
+
+    <scroll-view>
+      <swiper  autoplay="true" interval="5000" circular="true" indicator-dots="true">
+    <swiper-item wx:for="{{lunsrc}}" wx:for-item="item" wx:for-index="index" wx:for-key="src"> 
+  <image src="{{item.src}}"> </image>
+  </swiper-item>
+  </swiper>
+
+<view  class="font1">
+M5353
+</view>
+<view  class="font2" >小号球袋</view>
+<view class="font3">¥521</view>
+<view class="font4">2中盐酸</view>
+<scroll-view  scroll-x="true">
+  <view class="aclass">
+  
+    <image src="https://www.louisvuitton.cn/images/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB--W_Fa_RW_Show_FW21_Push_5_DI1.jpg?wid=656"></image>
+    <image src="https://www.louisvuitton.cn/images/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB--W_Fa_RW_Show_FW21_Push2_DII.jpg?wid=1080"></image>
+    <image src="https://www.louisvuitton.cn/images/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB--W_Fa_RW_Show_FW21_Push_5_DI1.jpg?wid=656"></image>
+  </view>
+</scroll-view>
+<view class="txt1">
+  都发啥都是反复打非官方的鬼斧神工
+  sfgsfdgsfdgsgdsfgsfdg
+  双方各非官方的公司分公司答复
+
+  公司的范德萨
+</view>
+
+</scroll-view>
+<view class="fix">
+  <image src="../../image/聊天.png"></image>
+  <image src="../../image/聊天.png"></image>
+  <text>放入购物袋 </text>
+  <text class="jkxg">即可选购</text>
+
+</view>

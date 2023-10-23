@@ -1,0 +1,23 @@
+<!-- <button bindtap="cs">打开测试小程序</button>
+<view>
+ 
+  <view class="head">
+  
+    <view class="name">{{name}}</view>
+    <view class="zl">编辑资料</view>
+  </view>
+  <view class="dd">
+    <text>订单</text>
+  </view>
+  <view class="but">
+  <button style="width:550rpx; height:15%; border:6rpx solid" plain="true" class="showmore">
+    <navigator url=""><text decode="true">查看全部商品 &emsp; &emsp; &emsp;  &emsp;  →</text></navigator>
+  </button>
+</view>
+  <view class="kf">
+     客服
+  </view>
+  <view>
+    <button open-type="contact"> 在线客服</button>
+  </view>
+</view> -->

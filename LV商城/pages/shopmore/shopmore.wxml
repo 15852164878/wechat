@@ -1,0 +1,7 @@
+<!--pages/shopmore/shopmore.wxml-->
+<view>
+  <image class=""
+    src="http://m.qpic.cn/psc?/V54MMYON20rrLC4GY5iy4fIGam2npxeZ/ruAMsa53pVQWN7FLK88i5oN1dIBLHQ81bymrp7uR0G.S9TB0ysRFY5jDNvh153qMIRV.WhFP3QTzMRnNRTZjGRlxWj8TR0D78lcB.Wxf1lE!/mnull&bo=.AL4AgAAAAABByA!&rf=photolist&t=5">
+  </image>
+</view>
+<view> 男士精选</view>

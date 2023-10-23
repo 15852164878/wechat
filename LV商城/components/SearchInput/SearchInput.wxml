@@ -1,0 +1,6 @@
+ <view class="search_input">
+<navigator>
+  <image  src="../../image/查找.png" ></image>
+  <input> </input>
+</navigator>
+</view>  
